@@ -1,21 +1,6 @@
 {"items":[
-  {"_id":"5f91c531468f8f60e5dc4e79","Trip":
-    {"tripId":"1","name":"Australia","_partition":"owner_id","owner_id":"saraindus@yahoo.com","startTime":"2018-12-10T13:49:51.141Z","endTime":"2018-12-10T13:49:51.141Z",
-      "wavepoints":[
-        {"wavepoint":{"name":"sydney 01","location":{"longiitude":150.981949,"latitude":-33.872411}
-      }}
-      ,
-        {"wavepoint":{"name":"sydney 02","location":{"longiitude":150.95014,"latitude":-33.87241}
-      }},
-        {"wavepoint":{"name":"sydney 03","location":{"longiitude":150.95348,"latitude":-33.87281}
-        }},
-        {"wavepoint":{"name":"sydney 04","location":{"longiitude":150.964302,"latitude":-33.875261}
-        }},
-        {"wavepoint":{"name":"sydney 05","location":{"longiitude":150.973366,"latitude":-33.87013}
-        }}
-        ]
-        }
+  {"_id":"5f91c531468f8f60e5dc4e79","name":"saravanan"
+  
         }
       ]
     }
-
