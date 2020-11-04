@@ -1,6 +1,5 @@
 {"items":[
-  {"_id":"5f91c531468f8f60e5dc4e79","name":"saravanan","Trip":{"tripId":1,"name":"Sydney"}
-  
+  {"_id":"5f91c531468f8f60e5dc4e79","name":"saravanan","Trip":{"tripId":1,"myname":"Sydney"}
         }
       ]
     }
