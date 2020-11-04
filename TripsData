@@ -1,5 +1,5 @@
 {"items":[
-  {"_id":"5f91c531468f8f60e5dc4e79","name":"saravanan","mytrip":{"tripId":1,"myname":"Sydney"},"state":"ghana"
+  {"_id":"5f91c531468f8f60e5dc4e79","name":"saravanan","mytrip":{"tripId":1,"myname":"Sydney","wavepoints":[{"wavepoint":{"name":"wave01", "location":{"longiitude":233, "latitude":9333}} },{"wavepoint":{"name":"wave01", "location":{"longiitude":233, "latitude":9333}}},{"wavepoint":{"name":"wave01", "location":{"longiitude":233, "latitude":9333}}},{"wavepoint":{"name":"wave01", "location":{"longiitude":233, "latitude":9333}}},{"wavepoint":{"name":"wave01", "location":{"longiitude":233, "latitude":9333}}}]},"state":"ghana"
          }
       ]
     }
