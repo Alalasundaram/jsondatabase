@@ -1,6 +1,7 @@
 {"items":[
-  {"_id":"5f91c531468f8f60e5dc4e79","name":"saravanan","mytrip":{"tripId":1,"myname":"Sydney","wavepoints":[{"name":"saraca","location":{"longitude":2344, "latitude":4566}}],"state":"ghana"
+  {"_id":"5f91c531468f8f60e5dc4e79","name":"saravanan","mytrip":{"tripId":1,"myname":"Sydney"},"state":"ghana"
          }
-       }
+       
       ]
     }
+
