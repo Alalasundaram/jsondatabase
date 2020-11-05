@@ -1,7 +1,7 @@
 {"items":[
   {"_id":"5f91c531468f8f60e5dc4e79","name":"saravanan","mytrip":{"tripId":1,"myname":"Sydney",
     "wavepoints":[{"name":"saraca","myloc":{"longitude":6473.33,"latitude":8393}},
-    {"name":"mams","myloc":{"longitude":8933.93,"latitude":3233.33}}]},
+    {"name":"mams","myloc":{"longitude":8933.3,"latitude":3233.33}}]},
   "state":"ghana"
        }
       ]
