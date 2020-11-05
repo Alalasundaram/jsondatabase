@@ -1,11 +1,9 @@
 {"items":[
   {"_id":"5f91c531468f8f60e5dc4e79","name":"saravanan","mytrip":{"tripId":1,"myname":"Sydney",
-    "wavepoints":[{"name":"saraca"},
-    {"name":"mams",}]},
+    "wavepoints":[{"name":"saraca","myloc":{"longitude":"testing"}},
+    {"name":"mams","myloc":{"longitude":"exams"}}]},
   "state":"ghana"
-
        }
       ]
     }
-
 
